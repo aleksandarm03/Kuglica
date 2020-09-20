@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\bin\Debug\netcoreapp3.1\Kuglica.exe
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\bin\Debug\netcoreapp3.1\Kuglica.deps.json
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\bin\Debug\netcoreapp3.1\Kuglica.runtimeconfig.json
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\bin\Debug\netcoreapp3.1\Kuglica.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\bin\Debug\netcoreapp3.1\Kuglica.dll
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\bin\Debug\netcoreapp3.1\Kuglica.pdb
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\obj\Debug\netcoreapp3.1\Kuglica.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\obj\Debug\netcoreapp3.1\Kuglica.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\obj\Debug\netcoreapp3.1\Kuglica.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\obj\Debug\netcoreapp3.1\Kuglica.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\obj\Debug\netcoreapp3.1\Kuglica.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\obj\Debug\netcoreapp3.1\Kuglica.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\obj\Debug\netcoreapp3.1\Kuglica.dll
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\obj\Debug\netcoreapp3.1\Kuglica.pdb
+C:\Users\aleks\OneDrive\Radna površina\Aca\Kuglica\Kuglica\obj\Debug\netcoreapp3.1\Kuglica.genruntimeconfig.cache
